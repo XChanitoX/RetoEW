@@ -11,7 +11,7 @@ int main() {
     vector<string> horas(0);
 
     do {
-        cout << "Ingrese la cantidad de horas a ingresar: " << endl;
+        cout << "Ingrese la cantidad de intervalos a ingresar: " << endl;
         cin >> cantidadHoras;
     } while (cantidadHoras <= 0);
 
